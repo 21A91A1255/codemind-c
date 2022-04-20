@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int n,a[100],b[100],c[100],i;
+    int a[100],n,b[100],c[100],i;
     scanf("%d",&n);
     for(i=0;i<n;i++)
     {
@@ -13,5 +13,4 @@ int main()
         printf("%d
 ",c[i]);
     }
-    
 }
