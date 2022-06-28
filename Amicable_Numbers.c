@@ -10,8 +10,7 @@ int main()
             sum=sum+i;
         }
     }
-  //  printf("%d
-",sum);
+  //  printf("%d",sum);
     for(i=1;i<b;i++)
     {
         if(b%i==0)
